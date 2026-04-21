@@ -52,8 +52,6 @@ Ingénieur en informatique diplômé de **Télécom Physique Strasbourg**, spéc
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tototriou&layout=donut&langs_count=10&hide_border=true&theme=github_dark&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tototriou&show_icons=true&hide_border=true&theme=github_dark&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true)
-
 </div>
 
 ---
