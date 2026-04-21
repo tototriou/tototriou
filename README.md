@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║   Thomas Triouleyre  —  Software Engineer                ║
-║   Networks · IoT · Web · Cloud · Flutter                 ║
+║          Networks · IoT · Web · Cloud                    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
