@@ -7,7 +7,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Triouleyre-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thomas-triouleyre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Triouleyre-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thomas-triouleyre-9827521b8/)
 [![Email](https://img.shields.io/badge/Email-thomas.triouleyre@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:thomas.triouleyre@gmail.com)
 ![Location](https://img.shields.io/badge/📍_Strasbourg,_France-333?style=flat-square)
 
